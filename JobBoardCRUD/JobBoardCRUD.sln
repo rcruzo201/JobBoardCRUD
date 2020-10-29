@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{5F7E01C8-0542-4E06-A5B8-2F5E415A37A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{41692641-2B41-4217-B0B9-6176BF548CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{03D18082-BD36-4459-9A43-3777EB7DB223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7E01C8-0542-4E06-A5B8-2F5E415A37A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7E01C8-0542-4E06-A5B8-2F5E415A37A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7E01C8-0542-4E06-A5B8-2F5E415A37A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7E01C8-0542-4E06-A5B8-2F5E415A37A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41692641-2B41-4217-B0B9-6176BF548CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41692641-2B41-4217-B0B9-6176BF548CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41692641-2B41-4217-B0B9-6176BF548CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41692641-2B41-4217-B0B9-6176BF548CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D18082-BD36-4459-9A43-3777EB7DB223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D18082-BD36-4459-9A43-3777EB7DB223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D18082-BD36-4459-9A43-3777EB7DB223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D18082-BD36-4459-9A43-3777EB7DB223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD36F60B-9690-4D02-8183-2DDC433B406D}
+	EndGlobalSection
+EndGlobal
