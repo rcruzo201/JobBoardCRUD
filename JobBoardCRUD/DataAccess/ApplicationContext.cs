@@ -10,6 +10,6 @@ namespace DataAccess
         public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options)
         {
         }
-        public DbSet<Job> Developers { get; set; }
+        public DbSet<Job> Jobs { get; set; }
     }
 }

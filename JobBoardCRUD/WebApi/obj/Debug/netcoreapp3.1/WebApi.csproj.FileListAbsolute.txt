@@ -58,8 +58,13 @@ C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\BusinessLogic.dll
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\DataAccess.dll
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\DataAccess.pdb
-C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
-C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
