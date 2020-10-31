@@ -1,0 +1,12 @@
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\bin\Release\netcoreapp3.1\BusinessLogic.deps.json
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\bin\Release\netcoreapp3.1\BusinessLogic.dll
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\bin\Release\netcoreapp3.1\BusinessLogic.pdb
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.dll
+C:\JobBoardCRUD\JobBoardCRUD\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.pdb

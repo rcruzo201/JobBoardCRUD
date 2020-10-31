@@ -1,0 +1,12 @@
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\JobBoardCRUD\JobBoardCRUD\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache

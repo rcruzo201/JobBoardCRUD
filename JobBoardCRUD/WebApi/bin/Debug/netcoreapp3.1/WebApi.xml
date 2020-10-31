@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:WebApi.Controllers.JobController">
+            <summary>
+            Job Controller conining the CRUD funtions
+            </summary>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.#ctor(DataAccess.IUnitOfWork,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="unitOfWork"></param>
+            <param name="webHostEnvironment"></param>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.GetJobs">
+            <summary>
+            List all the jobs in the DB
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.CreateJob(DataAccess.Job)">
+            <summary>
+            This will create a Job Object
+            </summary>
+            <param name="jobObject"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.CreateFile(DataAccess.DTOJob)">
+            <summary>
+            Method used for Generating Json Files to Store Data
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.ReadFiles">
+            <summary>
+            Method that read a list of files in a directory and convert them to a serialize Json object
+            </summary>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.UpdateJob(DataAccess.DTOJob)">
+            <summary>
+            Update the selected Job
+            </summary>
+            <param name="jobObject"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.JobController.DeleteJob(DataAccess.DTOJob)">
+            <summary>
+            Delete any object from the DB
+            </summary>
+            <param name="jobObject"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
