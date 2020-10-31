@@ -65,6 +65,10 @@ C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dl
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\JobBoardCRUD\JobBoardCRUD\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Json\d5f4716b-129d-4834-96c8-039f3565de74.json
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Json\8388b6f4-8743-4074-a869-295797781851.json
+C:\JobBoardCRUD\JobBoardCRUD\WebApi\bin\Debug\netcoreapp3.1\Json\df90fdaa-bd6b-4573-a4b1-365c0ef93388.json
