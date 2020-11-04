@@ -4,5 +4,5 @@
 4. Both the Back End and the Fron End were built and they are saved in zip files so they can be published to any Web Server.
 5. To test the api it was included swagger in the project and it can be accessed only by typing in the Url -> http://[domain name/IP]:[port]/swagger/index.html
 6. If you want to test the Front End with Visual Code, you have to execute de command "npm install" in the terminal
-7. The WebApi has to be published to the port 63869, but it can be compiled invisual code with the command "ng serve"
-8. The front end can be accessed thru the URl -> http://[domain name/IP]:[port]/#/job  
+7. The WebApi has to be published to the port 63869, but it can be compiled in Visual Studio
+8. The front end can be compiled invisual code with the command "ng serve" and accessed thru the URl -> http://[domain name/IP]:[port]/#/job  
